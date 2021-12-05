@@ -1,3 +1,4 @@
+**Lab Instructions**
 1. Login Github and Create a repository
 2. get familiar with account profile --> settings -->Developer Settings -->Personal Access Tokens 
 3. Click **"Generate New Token"** 
